@@ -24,9 +24,9 @@ function Hero() {
         </p>
         <a
           className="mt-6 inline-flex rounded-md bg-[#3b5df5] px-[26px] py-[11px] text-[13.5px] font-bold text-white shadow-[0_10px_22px_rgba(32,52,156,0.28)] transition hover:-translate-y-0.5 hover:bg-[#2c4ad8] max-[540px]:px-[22px] max-[540px]:py-2.5 max-[540px]:text-xs"
-          href="#courses"
+          href="#students"
         >
-          Start Learning
+          Browse Students
         </a>
       </div>
     </section>
